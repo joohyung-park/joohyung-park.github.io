@@ -2,8 +2,8 @@
   "name": "11ty-sass-images-seo",
   "description": "An 11ty starter with project scaffolding, Sass, image optimization, and SEO enhancements.",
   "version": "1.0.0",
-  "license": "MIT (TODO: replace me)",
-  "author": "AleksandrHovhannisyan (TODO: replace me)",
+  "license": "MIT",
+  "author": "Joohyung Park",
   "type": "module",
   "scripts": {
     "clean": "rimraf _site .cache",
